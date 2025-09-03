@@ -10,7 +10,7 @@ But question is how to build a robuts and effective agentic system. Let's look i
 
   **Use Cases:**
 
-  - Code Generation: An AI writes code and then debugs it, iteratively fixing errors until it's functional.
-  - Data Analysis: The AI generates a report from data and then reviews its own conclusions to ensure logical consistency and accuracy.
-  - Creative Writing: An AI drafts a story or article and then refines it for grammar, tone, and overall flow.
+  - **Code Generation**: An AI writes code and then debugs it, iteratively fixing errors until it's functional.
+  - **Data Analysis**: The AI generates a report from data and then reviews its own conclusions to ensure logical consistency and accuracy.
+  - **Creative Writing**: An AI drafts a story or article and then refines it for grammar, tone, and overall flow.
 
